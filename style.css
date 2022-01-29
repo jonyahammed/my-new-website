@@ -2,9 +2,112 @@ h1{
     color: rgb(4, 4, 194);
     background-color: rgb(132, 243, 42);
     font-weight: 700;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 40px;
+
+    
+
+}
+.friend{
+    width: 30%;
+    border: 3px solid rgb(240, 8, 8);
+    margin: 0px 0px 0px 50px;
+}
+#birthday{
+    color: rgb(5, 61, 99);
+   
+
+    text-align: center;
+    background-color: rgb(87, 148, 97);
+    font-weight: 700;
+
+
+}
+#marrid{
+    color: rgb(4, 4, 194);
+    background-color: rgb(145, 134, 129);
+    font-size: 17px;
+    font-weight: 500;
+}
+ul{
+    animation: backwards;
+    color: rgb(209, 25, 154);
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#murgi{
+    color: rgb(156, 1, 156);
+    font-weight: 600;
     
 }
-h2{
-    color: olive;
+#man{
+    color: rgb(6, 155, 155);
+    font-weight: 600;
+    
+    
+
 }
+#love{
+    color: rgb(192, 9, 9);
+    font-weight: 600;
+    
+}
+#pagol{
+    color: rgb(3, 3, 151);
+    font-weight: 600;
+}
+#jibon{
+    color: rgb(184, 10, 120);
+    font-weight: 600;
+}
+#boy{
+    color: rgb(5, 150, 5);
+    font-weight: 600;
+}
+.group{
+    border: 5px solid rgb(110, 240, 5);
+    border-radius: 10px;
+    margin: 10px 20px 5px 20px;
+    padding: 5px;
+    text-align: justify;
+    display: inline-block;
+    width: 35%;
+
+}
+}
+.easy{
+    color: rgb(21, 3, 26);
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+   
+}
+#cat{
+    color: rgb(5, 150, 5);
+    text-align: center;
+    border: 5px solid rgb(89, 0, 255);
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 40px;
+    
+    
+}
+.girlfriend{
+      border: 5px solid rgb(110, 240, 5);
+    border-radius: 10px;
+    margin: 10px 10px 5px 250px;
+    padding: 5px;
+    text-align: justify;
+    display: inline-block;
+    width: 35%;
+
+}
+#rat{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
